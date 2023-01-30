@@ -12,9 +12,9 @@ Weekly Readings and Assignment 2 <span class='badge'> [Tue Jun 14 2:30pm PT](htt
 Weekly Readings and Assignment 2 <span class='badge'> [Fri Jun 17 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220617T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
-[Asking the right questions during user research, interviews and testing](https://canvas.sfu.ca/courses/69678/assignments/751325) <span class='badge'> [Sun Jun 19 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220619T235900&p1=256)</span>  
-[How to Run Remote User Research (Like a Boss!)](https://canvas.sfu.ca/courses/69678/assignments/751326) <span class='badge'> [Sun Jun 19 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220619T235900&p1=256)</span>  
-[User Research When You Can’t Talk to Your Users](https://canvas.sfu.ca/courses/69678/assignments/751332) <span class='badge'> [Sun Jun 19 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220619T235900&p1=256)</span>  
+[Asking the right questions during user research, interviews and testing](https://canvas.sfu.ca/courses/76289/assignments/751325) <span class='badge'> [Sun Jun 19 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220619T235900&p1=256)</span>  
+[How to Run Remote User Research (Like a Boss!)](https://canvas.sfu.ca/courses/76289/assignments/751326) <span class='badge'> [Sun Jun 19 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220619T235900&p1=256)</span>  
+[User Research When You Can’t Talk to Your Users](https://canvas.sfu.ca/courses/76289/assignments/751332) <span class='badge'> [Sun Jun 19 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220619T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 

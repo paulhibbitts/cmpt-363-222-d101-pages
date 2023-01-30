@@ -2,7 +2,7 @@
 
 # Welcome to CMPT-363 User Interface Design, Summer 2022 👋🏼
 
-To help orientate yourself to the course, explore the [course syllabus](https://canvas.sfu.ca/courses/69678/assignments/syllabus). You may also want to view a [brief tour of Blackboard Collaborate Ultra](https://www.youtube.com/watch?v=6SKSODqUeWg).
+To help orientate yourself to the course, explore the [course syllabus](https://canvas.sfu.ca/courses/76289/assignments/syllabus). You may also want to view a [brief tour of Blackboard Collaborate Ultra](https://www.youtube.com/watch?v=6SKSODqUeWg).
 
 Online courses as compared to in-person classes can present unique challenges. Here are some articles to help you better succeed with online learning:
 

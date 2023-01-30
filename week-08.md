@@ -12,9 +12,9 @@ Weekly Readings and Assignment 3 / CANCELLED <span class='badge'> [Tue Jun 28 2:
 Weekly Readings and Assignment 3 / CANADA DAY <span class='badge'> [Fri Jul 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220701T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
-[Usability Testing Guide](https://canvas.sfu.ca/courses/69678/assignments/751323) <span class='badge'> [Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220703T235900&p1=256)</span>  
-[Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://canvas.sfu.ca/courses/69678/assignments/751324) <span class='badge'> [Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220703T235900&p1=256)</span>  
-[Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config)](https://canvas.sfu.ca/courses/69678/assignments/751320) <span class='badge'> [Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220703T235900&p1=256)</span>  
+[Usability Testing Guide](https://canvas.sfu.ca/courses/76289/assignments/751323) <span class='badge'> [Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220703T235900&p1=256)</span>  
+[Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://canvas.sfu.ca/courses/76289/assignments/751324) <span class='badge'> [Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220703T235900&p1=256)</span>  
+[Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config)](https://canvas.sfu.ca/courses/76289/assignments/751320) <span class='badge'> [Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220703T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 

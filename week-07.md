@@ -3,7 +3,7 @@
 # How to bridge the gap between the problem and design space?
 
 ## Assignment 3
-[Storyboard Wireframes](https://canvas.sfu.ca/courses/69678/assignments/751349) <span class='badge'> [Mon Jul 18 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220718T2359&p1=256)</span>  
+[Storyboard Wireframes](https://canvas.sfu.ca/courses/76289/assignments/751349) <span class='badge'> [Mon Jul 18 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220718T2359&p1=256)</span>  
 
 ## Assignment 3 Resources  
 
@@ -30,7 +30,7 @@ _Key mobile platform design guidelines._
 [What Is The Role Of Creativity In UX Design? (10 minute read)](https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/)  
 
 ## Blackboard Collab Session
-[Conceptual Models and Prototyping](https://docs.google.com/presentation/d/e/2PACX-1vQ0Mu3_t-ydhAMdk7EIQcn-4vjEuOLGyKHoBubE_J-NFqnXAbedmyVzYVIV8PK4PzTWhV0kT1qwnkQr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-07) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger <i class="fa fa-bars"></i> menu)  
+[Conceptual Models and Prototyping](https://docs.google.com/presentation/d/e/2PACX-1vQ0Mu3_t-ydhAMdk7EIQcn-4vjEuOLGyKHoBubE_J-NFqnXAbedmyVzYVIV8PK4PzTWhV0kT1qwnkQr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/76289/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-07) | [Recording](https://canvas.sfu.ca/courses/76289/external_tools/3544) (Look in Hamburger <i class="fa fa-bars"></i> menu)  
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0Mu3_t-ydhAMdk7EIQcn-4vjEuOLGyKHoBubE_J-NFqnXAbedmyVzYVIV8PK4PzTWhV0kT1qwnkQr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
@@ -38,15 +38,15 @@ _Key mobile platform design guidelines._
 Weekly Readings and Assignment 3 <span class='badge'> [Fri Jun 24 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220701T1430&p1=256&am=50)</span>  
 
 ## Downloads
-[Sketching Templates](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Sketching%20Templates)  
+[Sketching Templates](https://canvas.sfu.ca/courses/76289/files/folder/Downloads/Sketching%20Templates)  
 
 ## One-minute Summaries & Questions
-[Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/69678/assignments/751330) <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
-[The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/69678/assignments/751331) <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
-[What Is The Role Of Creativity In UX Design? (10 minute read)](https://canvas.sfu.ca/courses/69678/assignments/751342)  <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
+[Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/76289/assignments/751330) <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
+[The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/76289/assignments/751331) <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
+[What Is The Role Of Creativity In UX Design? (10 minute read)](https://canvas.sfu.ca/courses/76289/assignments/751342)  <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
-[Week 7 Visual Journal Entry](https://canvas.sfu.ca/courses/69678/assignments/751354) <span class='badge'> [Thu Jun 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+7+Visual+Journal+Entry+Due+Date&iso=20220623T235900)</span>  
+[Week 7 Visual Journal Entry](https://canvas.sfu.ca/courses/76289/assignments/751354) <span class='badge'> [Thu Jun 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+7+Visual+Journal+Entry+Due+Date&iso=20220623T235900)</span>  
 
 ## Supplemental Readings  
 
