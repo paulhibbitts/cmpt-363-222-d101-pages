@@ -17,7 +17,7 @@ Weekly Readings <span class='badge'> [Fri May 20 2:30pm PT](https://www.timeandd
 
 ## One-minute Summaries & Questions
 [Interaction design: a guide for beginners](https://canvas.sfu.ca/courses/76289/assignments/849070) <span class='badge'> [Sun May 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220522T235900&p1=256)</span>  
-[Five HCI Laws for User Experience Design](https://canvas.sfu.ca/courses/76289/assignments/751340) <span class='badge'> [Sun May 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220522T235900&p1=256)</span>  
+[Five HCI Laws for User Experience Design](https://canvas.sfu.ca/courses/76289/assignments/849069) <span class='badge'> [Sun May 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220522T235900&p1=256)</span>  
 [Touch Targets on Touchscreens](https://canvas.sfu.ca/courses/76289/assignments/849074) <span class='badge'> [Sun May 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220522T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
