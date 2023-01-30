@@ -19,9 +19,9 @@
 Weekly Readings and Assignment 2 <span class='badge'> [Fri Jun 10 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220510T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
-[A 5-Step Process For Conducting User Research](https://canvas.sfu.ca/courses/76289/assignments/751333) <span class='badge'> [Sun Jun 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20220612T235900&p1=256)</span>  
-[How to Leverage Thematic Analysis for Better UX](https://canvas.sfu.ca/courses/76289/assignments/751334) <span class='badge'> [Sun Jun 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20220612T235900&p1=256)</span>  
-[User Need Statements: The ‘Define’ Stage in Design Thinking](https://canvas.sfu.ca/courses/76289/assignments/751327) <span class='badge'> [Sun Jun 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=202206123T235900&p1=256)</span>  
+[A 5-Step Process For Conducting User Research](https://canvas.sfu.ca/courses/76289/assignments/849076) <span class='badge'> [Sun Jun 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20220612T235900&p1=256)</span>  
+[How to Leverage Thematic Analysis for Better UX](https://canvas.sfu.ca/courses/76289/assignments/849075) <span class='badge'> [Sun Jun 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20220612T235900&p1=256)</span>  
+[User Need Statements: The ‘Define’ Stage in Design Thinking](https://canvas.sfu.ca/courses/76289/assignments/849081) <span class='badge'> [Sun Jun 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=202206123T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 [Week 5 Visual Journal Entry](https://canvas.sfu.ca/courses/76289/assignments/751353) <span class='badge'> [Thu Jun 9 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+5+Visual+Journal+Entry+Due+Date&iso=20220609T235900)</span>  
