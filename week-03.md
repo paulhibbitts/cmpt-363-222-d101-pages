@@ -26,9 +26,9 @@ _Key mobile platform design guidelines._
 Weekly Readings and Assignment 1 <span class='badge'> [Fri May 27 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220527T1430&p1=256&am=50)</span>
 
 ## One-minute Summaries & Questions
-[Evaluating Wireframes with Usability Inspection Methods](https://canvas.sfu.ca/courses/76289/assignments/751338) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220529T235900&p1=256)</span>  
-[10 Usability Heuristics for User Interface Design](https://canvas.sfu.ca/courses/76289/assignments/751322) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220529T235900&p1=256)</span>  
-[Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/76289/assignments/751341) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220529T235900&p1=256)</span>  
+[Evaluating Wireframes with Usability Inspection Methods](https://canvas.sfu.ca/courses/76289/assignments/849071) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220529T235900&p1=256)</span>  
+[10 Usability Heuristics for User Interface Design](https://canvas.sfu.ca/courses/76289/assignments/849086) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220529T235900&p1=256)</span>  
+[Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/76289/assignments/849068) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220529T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 [Week 3 Visual Journal Entry](https://canvas.sfu.ca/courses/76289/assignments/751352) <span class='badge'> [Thu May 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20220526T235900)</span>  
