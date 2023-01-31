@@ -41,9 +41,9 @@ Weekly Readings and Assignment 3 <span class='badge'> [Fri Jun 24 2:30pm PT](htt
 [Sketching Templates](https://canvas.sfu.ca/courses/76289/files/folder/Downloads/Sketching%20Templates)  
 
 ## One-minute Summaries & Questions
-[Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/76289/assignments/751330) <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
-[The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/76289/assignments/751331) <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
-[What Is The Role Of Creativity In UX Design? (10 minute read)](https://canvas.sfu.ca/courses/76289/assignments/751342)  <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
+[Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/76289/assignments/849079) <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
+[The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/76289/assignments/849078) <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
+[What Is The Role Of Creativity In UX Design? (10 minute read)](https://canvas.sfu.ca/courses/76289/assignments/849067)  <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 [Week 7 Visual Journal Entry](https://canvas.sfu.ca/courses/76289/assignments/751354) <span class='badge'> [Thu Jun 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+7+Visual+Journal+Entry+Due+Date&iso=20220623T235900)</span>  
