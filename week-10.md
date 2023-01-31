@@ -12,9 +12,9 @@ Weekly Readings and Assignment 3 <span class='badge'> [Tue Jul 12 2:30pm PT](htt
 Weekly Readings and Assignment 3 <span class='badge'> [Fri Jul 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220715T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
-[7 Things Every Designer Needs to Know about Accessibility](https://canvas.sfu.ca/courses/76289/assignments/758888) <span class='badge'> [Sun Jul 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220717T235900&p1=256)</span>  
-[Accessibility vs Design trends](https://canvas.sfu.ca/courses/76289/assignments/758887) <span class='badge'> [Sun Jul 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220717T235900&p1=256)</span>  
-[Inclusion first: How to make your product accessible and inclusive](https://canvas.sfu.ca/courses/76289/assignments/758886) <span class='badge'> [Sun Jul 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220717T235900&p1=256)</span>  
+[7 Things Every Designer Needs to Know about Accessibility](https://canvas.sfu.ca/courses/76289/assignments/849059) <span class='badge'> [Sun Jul 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220717T235900&p1=256)</span>  
+[Accessibility vs Design trends](https://canvas.sfu.ca/courses/76289/assignments/849060) <span class='badge'> [Sun Jul 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220717T235900&p1=256)</span>  
+[Inclusion first: How to make your product accessible and inclusive](https://canvas.sfu.ca/courses/76289/assignments/849061) <span class='badge'> [Sun Jul 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220717T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 

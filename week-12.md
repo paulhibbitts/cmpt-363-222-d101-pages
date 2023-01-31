@@ -11,8 +11,8 @@ Weekly Readings and Assignment 4 <span class='badge'> [Tue Jul 26 2:30pm PT](htt
 Weekly Readings and Assignment 4 <span class='badge'> [Fri Jul 29 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220729T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
-[Visual communication: 10 tips on evaluating design](https://canvas.sfu.ca/courses/76289/assignments/751319) <span class='badge'> [Sun Jul 31 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220630T235900&p1=256)</span>  
-[How To Give And Receive (Design) Critique Well](https://canvas.sfu.ca/courses/76289/assignments/751329) <span class='badge'> [Sun Jul 31 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220630T235900&p1=256)</span>  
+[Visual communication: 10 tips on evaluating design](https://canvas.sfu.ca/courses/76289/assignments/849092) <span class='badge'> [Sun Jul 31 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220630T235900&p1=256)</span>  
+[How To Give And Receive (Design) Critique Well](https://canvas.sfu.ca/courses/76289/assignments/849091) <span class='badge'> [Sun Jul 31 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220630T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 
