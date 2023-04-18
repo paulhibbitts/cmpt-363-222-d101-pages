@@ -19,7 +19,7 @@ No visual journal entry this week.
 
 ![SFU](images/7232870216_4b487b0cab_k.jpg ':class=banner-image')
 
-<h1> Discord Office (Student) Hours&nbsp;👩🏽‍💻👨🏽‍💻 </h1>
+<h1> Discord Office (Student) <span style="white-space:nowrap">Hours 👩🏽‍💻👨🏽‍💻</span></h1>
 
 <div class="row">
 <div class="column">
