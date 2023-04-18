@@ -1,6 +1,6 @@
 <div class=alert>
 
-<h1> What’s Happening This Week 💫 </h1>
+<h1> What’s Happening This Week💫 </h1>
 
 <h2> End of the Semester  </h2>
 
