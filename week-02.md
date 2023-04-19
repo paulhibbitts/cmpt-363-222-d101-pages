@@ -1,6 +1,6 @@
 ![Multiple Mobile Devices](images/16230041026_d438eb2482_k.jpg ':class=banner-image')
 
-# What is the practice of mobile and multi-device interaction design?
+<h1>What is the practice of mobile and multi-device <span style="white-space:nowrap">interaction design?</span></h1>
 
 ## Required Readings  
 [Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  
