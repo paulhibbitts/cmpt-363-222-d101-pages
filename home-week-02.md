@@ -1,7 +1,7 @@
 
 <div class=alert>
 
-<h1> What’s Happening This Week💫 </h1>
+<h1> What’s Happening This <span style="white-space:nowrap">Week 💫</span></h1>
 
 <h2> What is the practice of mobile and multi-device interaction design? </h2>
 
@@ -24,7 +24,7 @@
 
 </div>
 
-<h1> Discord Student Office Hours‍👩🏽‍💻👨🏽‍💻 </h1>
+<h1> Discord Office (Student) <span style="white-space:nowrap">Hours 👩🏽‍💻👨🏽‍💻</span></h1>
 
 <div class="row">
 <div class="column">
@@ -44,7 +44,7 @@ Students are welcome to DM me - I usually reply to messages once or twice daily 
 
 ![Complex User Interface](images/2760207306_21ac555261_b.jpg ':class=banner-image')
 
-<h1> Looking Ahead to Next Week🔭 </h1>
+<h1> Looking Ahead to Next <span style="white-space:nowrap">Week 🔭</span></h1>
 
 <h2> How to conduct a user interface inspection? </h2>
 
