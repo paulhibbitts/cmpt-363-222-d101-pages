@@ -12,6 +12,6 @@
 
 [Anonymous Course Feedback](https://www.surveymonkey.ca/r/928BYWP ':class=button')
 
-This term we will be using a private Discord server for all class discussions, including assignment clarifications - [please join us on Discord!](https://www2.cs.sfu.ca/CourseCentral/363/paulh/discord-server-invite-363-222)  
+We will be using a private Discord server for all class discussions, including assignment clarifications - [please join us on Discord!](https://www2.cs.sfu.ca/CourseCentral/363/paulh/discord-server-invite-363-222)  
 
 _Once you join the server (read-only), please [email Paul](mailto:paul_hibbitts@sfu.ca) your Discord username or DM him your real name to have full access.  In general, I usually reply to messages once or twice daily on weekdays._
