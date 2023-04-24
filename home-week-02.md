@@ -24,8 +24,6 @@
 
 </div>
 
-We will be using a private Discord server for all class discussions, including assignment clarifications - [please join us on Discord!](https://www2.cs.sfu.ca/CourseCentral/363/paulh/discord-server-invite-363-222)
-
 <h1> Discord Office (Student) <span style="white-space:nowrap">Hours 👩🏽‍💻👨🏽‍💻</span></h1>
 
 <div class="row">
