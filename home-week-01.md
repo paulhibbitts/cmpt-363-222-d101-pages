@@ -16,7 +16,7 @@
 * [An Introduction to User Experience Design](https://canvas.sfu.ca/courses/76289/assignments/849072) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>  
 * [The Designer’s Guide to Lean and Agile UX](https://canvas.sfu.ca/courses/76289/assignments/849080) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>
 
-No visual journal entry this week.
+[Week 1 Visual Journal Entry due May 12](https://canvas.sfu.ca/courses/76289/assignments/758885 ':class=button')
 
 </div>
 
