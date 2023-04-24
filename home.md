@@ -2,7 +2,7 @@
 
 <h1> What’s Happening This <span style="white-space:nowrap">Week 💫</span></h1>
 
-<h2> End of the Semester  </h2>
+## [End of the Semester](https://canvas.sfu.ca/courses/76289/modules/items/2816285)
 
 <h3> Live Sessions </h3>
 
