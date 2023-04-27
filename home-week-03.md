@@ -3,7 +3,7 @@
 
 <h1> What’s Happening This <span style="white-space:nowrap">Week 💫</span></h1>
 
-## [What is the practice of mobile and multi-device interaction design?](https://canvas.sfu.ca/courses/76289/modules/items/2816274)
+## [How to conduct a user interface inspection?](https://canvas.sfu.ca/courses/76289/modules/items/2816275)
 
 <h3> Live Sessions </h3>
 
