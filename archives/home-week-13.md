@@ -17,7 +17,7 @@
 
 </div>
 
-![SFU](images/7232870216_4b487b0cab_k.jpg ':class=banner-image')
+![SFU](../images/7232870216_4b487b0cab_k.jpg ':class=banner-image')
 
 <h1> Discord Office (Student) <span style="white-space:nowrap">Hours 👩🏽‍💻👨🏽‍💻</span></h1>
 
