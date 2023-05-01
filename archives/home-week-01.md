@@ -40,7 +40,7 @@ Students are welcome to DM me - I usually reply to messages once or twice daily 
 </div>
 </div>
 
-![Multiple Mobile Devices](images/16230041026_d438eb2482_k.jpg ':class=banner-image')
+![Multiple Mobile Devices](../images/16230041026_d438eb2482_k.jpg ':class=banner-image')
 
 <h1> Looking Ahead to Next <span style="white-space:nowrap">Week 🔭</span></h1>
 
