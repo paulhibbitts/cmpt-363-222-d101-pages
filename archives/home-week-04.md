@@ -7,8 +7,8 @@
 
 <h3> Live Sessions </h3>
 
-* [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/69678/external_tools/3544) (will be recorded) <span class='badge'> [Tue May 24 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-lectures+and+Activities&iso=20220524T1430&p1=256&ah=1&am=50)</span>
-* [Zoom Cowork/Q&A - Weekly Readings and Assignment 1](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpN) <span class='badge'> [Fri May 27 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220527T1430&p1=256&am=50)</span>
+* [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/69678/external_tools/3544) <span class='badge'> [Tue May 24 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-lectures+and+Activities&iso=20220524T1430&p1=256&ah=1&am=50)</span>
+* [Zoom Cowork/Q&A](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpN) <span class='badge'> [Fri May 27 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220527T1430&p1=256&am=50)</span>
 
 <h3> Important Reminders </h3>
 
@@ -16,7 +16,7 @@
 
 <h3> Required Readings & One-Minute Summaries </h3>
 
-* [How to Use Heuristic Evaluations to Improve Product Designs](https://canvas.sfu.ca/courses/67116/assignments/711254) <span class='badge'> [Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220206T235900&p1=256)</span>  
+* [An Introduction To Heuristic Evaluation](https://canvas.sfu.ca/courses/67116/assignments/711254) <span class='badge'> [Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220206T235900&p1=256)</span>  
 * [Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/67116/assignments/711254) <span class='badge'> [Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220206T235900&p1=256)</span>  
 
 [Week 4 Visual Journal Entry due Feb 3](https://canvas.sfu.ca/courses/69678/assignments/751352 ':class=button')
