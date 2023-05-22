@@ -1,6 +1,6 @@
 <div class=alert>
 
-<h1> What’s Happening This <span style="white-space:nowrap">Week 💫</span></h1>
+<h1> What’s Happening This <span style="white-space:nowrap">Week 💫</span> </h1>
 
 ## [End of the Semester](https://canvas.sfu.ca/courses/76289/modules/items/2816285)
 
