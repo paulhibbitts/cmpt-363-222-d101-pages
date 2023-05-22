@@ -1,6 +1,6 @@
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
-<h1> Course overview / What is usability and user <span style="white-space:nowrap">experience design?</span></h1>
+<h1>Course overview / What is usability and user <span style="white-space:nowrap">experience design?</span></h1>
 
 ## Required Readings  
 [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
