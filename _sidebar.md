@@ -1,4 +1,4 @@
-**Summer 2022**
+# CMPT-363 Summer 2022
 
 - [Course Welcome](course-welcome)
 - [Week 1 (May 10 - 15)](week-01)
@@ -24,34 +24,3 @@
  - [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=6D6F71)Syllabus](https://canvas.sfu.ca/courses/69678/assignments/syllabus)  
 
 <br>
-
-<style>
-  :root {
-
-    --link-color: #CC0633;
-    --link-text-decoration: none;
-    --link-text-decoration--hover: underline;
-    --pagination-title-color: #CC0633;
-
-  }
-
-  .markdown-section {
-    padding: 1rem 40px;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --link-color: #c8494f;
-      --navbar-root-color: #b2b4b4;
-      --navbar-root-color--active: #c8494f;
-      --sidebar-name-color: #c8494f;
-      --sidebar-nav-link-color: #b2b4b4;
-      --sidebar-nav-link-color--active: #c8494f;
-      --sidebar-nav-link-border-color--active: #c8494f;
-      --sidebar-nav-strong-color: #b2b4b4;
-      --pagination-title-color: #c8494f;
-
-    }
-  }
-
-</style>
