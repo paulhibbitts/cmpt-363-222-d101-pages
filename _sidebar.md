@@ -1,4 +1,4 @@
-**Summer 2022**
+**CMPT-363 Summer 2022**
 
 - [Course Welcome](course-welcome)
 - [Week 1 (May 10 - 15)](week-01)
