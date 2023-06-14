@@ -1,10 +1,5 @@
-<h1 style="font-size: 1.2rem;"> 
+<h1 style="font-size: 1.2rem;"> [CMPT-363 Summer 2022](home) </strong></h1>
 
-**[CMPT-363 Summer 2022](home)**
-
-</h1>
-
-- [Home](home)
 - [Course Welcome](course-welcome)
 - [Week 1 (May 10 - 15)](week-01)
 - [Week 2 (May 16 - 22)](week-02)
