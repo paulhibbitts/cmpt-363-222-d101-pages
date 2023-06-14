@@ -1,4 +1,4 @@
-<h1 style="font-size: 1.2rem;"> [CMPT-363 Summer 2022](home) </strong></h1>
+<h1 style="font-size: 1.2rem;"> **[CMPT-363 Summer 2022](home)** </h1>
 
 - [Course Welcome](course-welcome)
 - [Week 1 (May 10 - 15)](week-01)
